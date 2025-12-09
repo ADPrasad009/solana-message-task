@@ -1,7 +1,7 @@
 
 ---
 
-# Message Program
+# Solana Message Program
 
 This is a small Solana program that stores a message on-chain.
 It lets you:
